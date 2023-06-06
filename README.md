@@ -1,29 +1,29 @@
-# WEB Laundry
+# Dikita Laundry
 
-Sistem Informasi Laundry adalah website sederhana yang dibuat dengan untuk mengelola data Laundry.
+Dikita Laundry is a simple website created to manage Laundry data.
 
-Website ini di buat untuk memenuhi Ujian Tugas Besar Mata Kuliah Desain & Pemrograman WEB Jurusan Teknologi Informasi Politeknik Negeri Malang.
+This website was created to fulfill the WEB Design & Programming Course Major Project Exam, Department of Information Technology, State Polytechnic of Malang.
 
-### Fitur
+### Features
 
-Web ini memiliki 2 role yaitu Admin dan Karyawan.
+This web has 2 roles, namely Admin and Employee.
 
-Admin mampu mengelola
+Admin is able to manage
 
-- Pelanggan
-- Paket
-- Karyawan
-- Transaksi
+- Customer
+- Package
+- Employee
+- Transaction
 
-Karyawan mampu mengelola
+Employee is able to manage
 
-- Pelanggan
-- Paket
-- Transaksi
+- Customer
+- Package
+- Transaction
 
-### Teknologi
+### Technology
 
-Web ini menggunakan teknologi :
+This web uses :
 
 - PHP v 7.4.11
 - MySQL
@@ -32,15 +32,3 @@ Web ini menggunakan teknologi :
 - Font Awesome
 - Jquery
 - Mpdf
-
-### Hak Akses
-
-Wildan Hafidz (Admin)
-
-- username : admin
-- password : admin
-
-Bluesloveyou (Karyawan)
-
-- username : bluesloveyou
-- password : bluesloveyou
