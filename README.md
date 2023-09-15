@@ -4,7 +4,7 @@ Dikita Laundry is a simple website created to manage Laundry data.
 
 This website was created to fulfill the WEB Design & Programming Course Major Project Exam, Department of Information Technology, State Polytechnic of Malang.
 
-### Features
+## Features
 
 This web has 2 roles, namely Admin and Employee.
 
@@ -21,7 +21,7 @@ Employee is able to manage
 - Package
 - Transaction
 
-### Technology
+## Technology
 
 This web uses :
 
